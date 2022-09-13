@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋,  I'm Anmol Sirola</h1>
 <!-- <br> -->
-<h3 align="center">Blockchain/Front-End Developer 💙 🇮🇳.</h3>
+<h3 align="center">Blockchain/Front-End Developer 💙.</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolsirola&label=Profile%20views&color=0e75b6&style=flat" alt="anmolsirola" /> </p>
+
+<img align = "right" width =400 alt = "coding image " src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <h3 align="center">Blockchain/Front-End Developer .</h3> -->
 
 - 🔭 I'm in the 2<sup>nd</sup> year of B.Tech Computer Science.
 
@@ -15,6 +18,7 @@
 - 📫 How to reach me **anmolsirola57@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/anmol-sirola-2b5274224/" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikash-kumar-yadav-8090" height="30" width="40" /></a>
 <p align="left">
 </p>
 
