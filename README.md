@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Advance Solidity, Java, DSA in Java**
 
-- 💬 Ask me about **Blockchain,React,DSA**
+- 💬 Ask me about **Blockchain, React ,DSA**
 
 - 📫 How to reach me **anmolsirola57@gmail.com**
 
