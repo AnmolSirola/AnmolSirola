@@ -4,7 +4,8 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolsirola&label=Profile%20views&color=0e75b6&style=flat" alt="anmolsirola" /> </p>
 
-<img align = "right" width =400 alt = "coding image " src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align = "right" width =400 alt = "coding image " src = "https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
+
 <!-- <h3 align="center">Blockchain/Front-End Developer .</h3> -->
 
 - 🔭 I'm in the 2<sup>nd</sup> year of B.Tech Computer Science.
