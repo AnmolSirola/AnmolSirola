@@ -33,8 +33,6 @@
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmolsirola&show_icons=true&locale=en" alt="anmolsirola" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmolsirola&" alt="anmolsirola" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnmolSirola)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![@anmol_sirola's Holopin board](https://holopin.me/anmol_sirola)](https://holopin.io/@anmol_sirola)
