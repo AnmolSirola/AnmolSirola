@@ -24,10 +24,10 @@
 
 ## Contributor in various Open Source Programs
 
-- **Social Summer of Code(SSOC) 
-- **HackOberfest 
-- **Slop 2.0 
-- **Social Winter of Code(SWOC) 
+- **Social Summer of Code(SSOC)**
+- **HackOberfest** 
+- **Slop 2.0**
+- **Social Winter of Code(SWOC)** 
 
 ## 👉 Programming languages
 
