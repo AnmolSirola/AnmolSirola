@@ -32,6 +32,8 @@
 ## 👉 Programming languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp; 
+![My Skills](https://skillicons.dev/icons?i=solidity)
+![My Skills](https://skillicons.dev/icons?i=java)
 
 ## 👉 Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,redux)](https://skillicons.dev)
