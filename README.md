@@ -77,4 +77,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+### :zap: GitHub Summary 📈
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+[![Anmol's GitHub stats](https://stats.quine.sh/Anmol/github?simple=true)](https://quine.sh/profile/Anmol)
+
 [![@anmol_sirola's Holopin board](https://holopin.me/anmol_sirola)](https://holopin.io/@anmol_sirola)
