@@ -26,8 +26,9 @@
 
 - **Social Summer of Code(SSOC)**
 - **HackOberfest** 
-- **Slop 2.0**
-- **Social Winter of Code(SWOC)** 
+- **Social Winter of Code(SWOC)**
+- **Winter of Blockchain**
+- **Web 3 Trailbrazer**
 
 ## 👉 Programming languages
 
