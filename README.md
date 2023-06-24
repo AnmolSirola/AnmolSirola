@@ -28,7 +28,7 @@
 - **HackOberfest** 
 - **Social Winter of Code(SWOC)**
 - **Winter of Blockchain**
-- **Web 3 Trailbrazer**
+- **Web 3 Trailbrazer Fellowship**
 
 ## 👉 Programming languages
 
