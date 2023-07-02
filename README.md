@@ -22,13 +22,15 @@
 <p align="left">
 </p>
 
-## Contributor in various Open Source Programs
+## Contributed in various Open Source Programs
 
 - **Social Summer of Code(SSOC)**
 - **HackOberfest** 
 - **Social Winter of Code(SWOC)**
 - **Winter of Blockchain**
 - **Web 3 Trailbrazer Fellowship**
+
+
 
 ## 👉 Programming languages
 
