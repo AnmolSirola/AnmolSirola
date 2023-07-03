@@ -28,7 +28,9 @@
 - **HackOberfest** 
 - **Social Winter of Code(SWOC)**
 - **Winter of Blockchain**
-- **Web 3 Trailbrazer Fellowship**
+
+## Programs
+- **Web 3 Trailbrazer Fellowship by Social**
 
 
 
