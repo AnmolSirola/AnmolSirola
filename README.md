@@ -30,7 +30,7 @@
 - **Winter of Blockchain**
 
 ## Fellowships
-- **Web 3 Trailbrazer Fellowship by social**
+- **Web 3 Trailbrazer Fellowship**
 
 
 
