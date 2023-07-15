@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working on Open-Source Projects.
 
-- 🌱 I’m currently learning **Solidity and React**
+- 🌱 I’m currently learning **Solidity and TypeScript**
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 
