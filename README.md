@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,  I'm Anmol Sirola</h1>
+<h1 align="center">Hi 👋 I'm Anmol Sirola</h1>
 <!-- <br> -->
 <h3 align="center">Blockchain/Smart Contract Developer 💙.</h3>
 <br>
