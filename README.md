@@ -22,7 +22,7 @@
 <p align="left">
 </p>
 
-## Participated in various Open Source Programs
+## Participated in various Open Source Programs 
 
 - **Social Summer of Code(SSOC)**
 - **HackOberfest** 
