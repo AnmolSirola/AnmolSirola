@@ -30,6 +30,8 @@
 - **Winter of Blockchain**
 - **Girl Script Summer of Code**
 
+## Hackathon Wins
+
 ## Fellowships
 - **Web 3 Trailbrazer Fellowship**
 
