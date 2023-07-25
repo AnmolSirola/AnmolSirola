@@ -31,6 +31,7 @@
 - **Girl Script Summer of Code**
 
 ## Hackathon Wins
+- **Lumos BuidL hackathon - 2nd Place**
 
 ## Fellowships
 - **Web 3 Trailbrazer Fellowship**
