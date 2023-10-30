@@ -36,6 +36,8 @@
 ## Fellowships
 - **Web 3 Trailbrazer Fellowship**
 - **Aptos's Fellowship program by Web3 learn.io**
+- **Solana bootcamp from Narra8ive**
+- ****
 
 
 
