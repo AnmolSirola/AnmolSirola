@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working on Open-Source Projects.
 
-- 🌱 I’m currently learning **Solidity and TypeScript**
+- 🌱 I’m currently learning **Move** and **TypeScript**
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 
@@ -35,6 +35,7 @@
 
 ## Fellowships
 - **Web 3 Trailbrazer Fellowship**
+- **Aptos's Fellowship program by Web3 learn.io**
 
 
 
@@ -61,13 +62,11 @@
 
 <h3> Smart Contracts </h3>
 <ul>
-  <li>Smart contracts execution on Ethereum & Polygon Blockchain </li>
+  <li>Smart contracts execution on Ethereum & Aptos Blockchain </li>
   <li>NFTs</li>
   <li>ERC20, ERC721 & ERC1155 Tokens</li>
   <li>DAOs</li>
   <li>Defi</li>
-  <li>Chainlink Oracles</li>   
-  <li>Alchemy & Infura Node Providers</li>  
   <li>IPFS, Pinata</li>  
 </ul>
 
