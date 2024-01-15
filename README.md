@@ -34,11 +34,10 @@
 - **Lumos BuidL hackathon - 2nd Place**
 
 ## Fellowships
-- **Web 3 Trailbrazer Fellowship**
+- **Sui Move Bootcamp by RiseIn**
 - **Aptos's Fellowship program by Web3 learn.io**
+- **Web 3 Trailbrazer Fellowship**
 - **Solana bootcamp from Narra8ive**
-- **Sui Move Bootcamp by RiseUp**
-
 
 
 ## 👉 Programming languages
