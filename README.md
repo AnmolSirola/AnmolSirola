@@ -31,7 +31,7 @@
 - **Girl Script Summer of Code**
 
 ## Hackathon Wins
-- **Lumos BuidL hackathon - 2nd Place**
+- **Lumos BuidL hackathon - 2nd Place** (Awarded $1500 dollars by polygon for best NFT-dapp)
 
 ## Fellowships
 - **Sui Move Bootcamp by RiseIn**
