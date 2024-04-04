@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working on Open-Source Projects.
 
-- 🌱 I’m currently learning **Rust** and **TypeScript**
+- 🌱 I’m currently learning **Rust** and **Next.js**
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 
