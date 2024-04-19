@@ -34,10 +34,10 @@
 - **Lumos BuidL hackathon - 2nd Place** (Awarded $1500 dollars by polygon for best NFT-dapp)
 
 ## Fellowships
+- **Solana bootcamp from Narra8ive**
 - **Sui Move Bootcamp by RiseIn**
 - **Aptos's Fellowship program by Web3 learn.io**
 - **Web 3 Trailbrazer Fellowship**
-- **Solana bootcamp from Narra8ive**
 
 
 ## 👉 Programming languages
