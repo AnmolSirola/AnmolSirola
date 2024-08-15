@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Anmol Sirola</h1>
 <!-- <br> -->
-<h3 align="center">Blockchain/Smart Contract Developer 💙.</h3>
+<h3 align="center"> Smart Contract Developer 💙.</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolsirola&label=Profile%20views&color=0e75b6&style=flat" alt="anmolsirola" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working on Open-Source Projects.
 
-- 🌱 I’m currently learning **Rust** and **Next.js**
+- 🌱 I’m currently learning **Auditing** and **Move**
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 
@@ -24,6 +24,8 @@
 
 ## Participated in various Open Source Programs 
 
+- **Google Summer of Code(GSOC)**
+- **Hyperledger Mentorship Program**
 - **Social Summer of Code(SSOC)**
 - **HackOberfest** 
 - **Social Winter of Code(SWOC)**
