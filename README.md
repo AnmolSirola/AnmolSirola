@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working on Open-Source Projects.
 
-- 🌱 I’m currently learning **Auditing** and **Move**
+- 🌱 I’m currently learning **Smart Contract Auditing** and **Move**
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 
@@ -26,11 +26,10 @@
 
 - **Google Summer of Code(GSOC)**
 - **Hyperledger Mentorship Program**
-- **Social Summer of Code(SSOC)**
-- **HackOberfest** 
-- **Social Winter of Code(SWOC)**
 - **Winter of Blockchain**
-- **Girl Script Summer of Code**
+- **HackOberfest**
+- **Social Summer of Code(SSOC)**
+
 
 ## Hackathon Wins
 - **Lumos BuidL hackathon - 2nd Place** (Awarded $1500 dollars by polygon for best NFT-dapp)
