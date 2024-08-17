@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working on Open-Source Projects.
 
-- 🌱 I’m currently learning **Smart Contract Auditing** and **Move**
+- 🌱 I’m currently learning **Solidity** and **FrontEnd**
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 
