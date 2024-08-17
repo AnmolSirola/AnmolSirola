@@ -63,12 +63,8 @@
 
 <h3> Smart Contracts </h3>
 <ul>
-  <li>Smart contracts execution on Ethereum, Solana and Sui Blockchain </li>
-  <li>NFTs</li>
-  <li>ERC20, ERC721 & ERC1155 Tokens</li>
-  <li>DAOs</li>
-  <li>Defi</li>
-  <li>IPFS, Pinata</li>  
+  <li>Smart contracts execution on Ethereum and Sui Blockchain </li>
+  <li>Full-Stack Development</li>
 </ul>
 
 
