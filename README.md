@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working on Open-Source Projects.
 
-- 🌱 I’m currently learning **Solidity** and **FrontEnd**
+- 🌱 I’m currently learning **Solidity** and **Move**
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 
@@ -39,33 +39,10 @@
 - **Aptos's Fellowship program by Web3 learn.io**
 - **Web 3 Trailbrazer Fellowship**
 
+## Smart Contract Development </h3>
+- **Solidity**
+- **Aptos and Sui Move**
 
-## 👉 Programming languages
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp; 
-![My Skills](https://skillicons.dev/icons?i=solidity)
-![My Skills](https://skillicons.dev/icons?i=java)
-
-## 👉 Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,redux)](https://skillicons.dev)
-
-## 👉 Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,solidity)](https://skillicons.dev)<a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
-
-
- ## 👉 Technologies & Concepts
-
-<h3> 🚀 Integration </h3>
-<ul>
-  <li>Ether JS</li>
-  <li> HardHat </li>
-</ul>
-
-<h3> Smart Contracts </h3>
-<ul>
-  <li>Smart contracts execution on Ethereum and Sui Blockchain </li>
-  <li>Full-Stack Development</li>
-</ul>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmolsirola&show_icons=true&locale=en&layout=compact" alt="anmolsirola" /></p>
