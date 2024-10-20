@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Anmol Sirola</h1>
 <!-- <br> -->
-<h3 align="center"> Smart Contract Developer 💙.</h3>
+<h3 align="center"> Security Researcher/Full-Stack Developer💙.</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolsirola&label=Profile%20views&color=0e75b6&style=flat" alt="anmolsirola" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working on Open-Source Projects.
 
-- 🌱 I’m currently learning **Solidity** and **Move**
+- 🌱 I’m currently learning **Solidity** and **Cairo**
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 
@@ -35,13 +35,13 @@
 - **Lumos BuidL hackathon - 2nd Place** (Awarded $1500 dollars by polygon for best NFT-dapp)
 
 ## Fellowships
+- **Cairo Bootcamp by Starkent Foundation**
 - **Sui Move Bootcamp by RiseIn**
-- **Aptos's Fellowship program by Web3 learn.io**
 - **Web 3 Trailbrazer Fellowship**
 
 ## Smart Contract Development </h3>
 - **Solidity**
-- **Aptos and Sui Move**
+- **Cairo**
 
 
 
