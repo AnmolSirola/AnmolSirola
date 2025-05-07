@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Anmol Sirola</h1>
 <!-- <br> -->
-<h3 align="center"> Security Researcher/Front-end Developer💙.</h3>
+<h3 align="center"> Security Researcher💙.</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolsirola&label=Profile%20views&color=0e75b6&style=flat" alt="anmolsirola" /> </p>
 
