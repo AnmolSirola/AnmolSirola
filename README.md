@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Anmol Sirola</h1>
 <!-- <br> -->
-<h3 align="center"> Security Researcher💙.</h3>
+<h3 align="center"> Zero Researcher/Security Researcher💙.</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolsirola&label=Profile%20views&color=0e75b6&style=flat" alt="anmolsirola" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working on Open-Source Projects.
 
-- 🌱 I’m currently learning **Solidity** and **Cairo**
+- 🌱 I’m currently learning **Rust** and **Circom**.
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 
