@@ -24,7 +24,7 @@
 
 ## Hackathon Wins
 - **1st Place** at **Flight of AI hackathon**- Awarded for building the best ML project solving a practical problem.
-- **2nd Place** at **Lumos BuidL hackathon** - Awarded for building the best application on Polygon Chain.**
+- **2nd Place** at **Lumos BuidL hackathon** - Awarded for building the best application on Polygon Chain.
 
 
 
