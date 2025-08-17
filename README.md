@@ -35,7 +35,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmolsirola&show_icons=true&locale=en&layout=compact" alt="anmolsirola" /></p>
 
-### :zap: GitHub Stats 📈
+
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnmolSirola&show_icons=true&locale=en" alt="AnmolSirola" /></p>
@@ -44,8 +44,15 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### :zap: GitHub Summary 📈
+
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 [![Anmol's GitHub stats](https://stats.quine.sh/Anmol/github?simple=true)](https://quine.sh/profile/Anmol)
 
 [![@anmol_sirola's Holopin board](https://holopin.me/anmol_sirola)](https://holopin.io/@anmol_sirola)
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/e5652c5a-e78c-491a-a692-6d2d7e881b35" alt="GNOSIS contributor" width="150" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/f5ceb247-bdf5-4bfb-8006-56e9354bf1e6" alt="Celesta Contributor" width="150" />
+</p>
+
